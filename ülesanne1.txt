@@ -5,3 +5,5 @@
 UNIQUE, NO NULL, PRIMARY KEY, FOREIGN KEY, CHECK
 
 Как создать таблицу и в этом же запросе ее посмотреть (команда)?
+CREATE TABLE NIMI - чтобы создать
+select * from NIMI - чтобы посмотреть
