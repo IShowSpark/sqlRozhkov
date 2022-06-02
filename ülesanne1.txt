@@ -3,3 +3,14 @@
 Какие ограничения есть в SQL?
 UNIQUE, NOT NULL,PRIMARY KEY, FOREIGN KEY, CHECK
 Как создать таблицу и в этом же запросе ее посмотреть (команда)?
+CREATE TABLE autod(
+autoID int primary key identity(1,1),
+regNumber char(6) UNIQUE,
+markID int,
+varv varchar(20),
+v_aasta int,
+kaigukastID
+int,
+km decimal(6,2)
+);
+SELECT * FROM autod
