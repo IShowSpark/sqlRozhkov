@@ -1,4 +1,5 @@
 ﻿Как переводится слово "Andmebaasihaldussüsteem"?
 Система управления базой данных
 Какие ограничения есть в SQL?
+UNIQUE, NOT NULL,PRIMARY KEY, FOREIGN KEY, CHECK
 Как создать таблицу и в этом же запросе ее посмотреть (команда)?
